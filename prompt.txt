@@ -1,0 +1,6 @@
+using $gpc-app-builder  create this app
+app title: ASSOC.FORMAT.PERFECT.GEST.COL.
+app idea: An operations-focused app offering equipment checkout, incident reporting, shift scheduling, and resource allocation to streamline daily business tasks.
+company name: ASSOC.FORMAT.PERFECT.GEST.COL.TERR.FRANC
+email address: [email to be provided later]
+the two icon and featured graphics contained in docs folder
