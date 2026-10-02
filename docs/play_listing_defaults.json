@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "applications": {
+    "fr.assocformatperfectgestcolterr.operations": {
+      "title": "ASSOC.FORMAT.PERFECT.GEST.COL.",
+      "short_description": "Local operations control for equipment, incidents, shifts, and resources.",
+      "full_description": "ASSOC.FORMAT.PERFECT.GEST.COL. helps operations teams keep daily business tasks organized on one Android device. Teams can record equipment checkout, incident response status, shift coverage, and resource allocation without accounts or cloud sync.\n\nThe app is built for practical coordination during busy workdays. Save local records, review priority queues, open detail screens, update statuses, and keep a simple local workspace for handoffs.",
+      "source_screenshots": [
+        "docs/screens/1.png",
+        "docs/screens/2.png",
+        "docs/screens/3.png"
+      ],
+      "generated_from": "existing repository listing metadata and README",
+      "generated_at": "2026-10-02T21:26:56.416382+00:00"
+    }
+  }
+}
