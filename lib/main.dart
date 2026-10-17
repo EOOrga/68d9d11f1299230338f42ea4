@@ -17,9 +17,9 @@ class OperationsApp extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    const primary = Color(0xFF075D82);
-    const secondary = Color(0xFFD99A1E);
-    const tertiary = Color(0xFF2F7D57);
+    const primary = Color(0xFF1565C0);
+    const secondary = Color(0xFF8BC34A);
+    const tertiary = Color(0xFF558B2F);
     const background = Color(0xFFF6F8F7);
 
     return MaterialApp(
@@ -258,7 +258,7 @@ class _OperationsShellState extends State<OperationsShell> {
             onCreateType: _openForm,
           ),
           1 => RecordListPage(
-            title: 'Equipment checkout',
+            title: 'ASSOC.FORMAT.PERFECT.GEST.COL.',
             type: 'equipment',
             emptyText: 'No equipment records saved.',
             controller: controller,

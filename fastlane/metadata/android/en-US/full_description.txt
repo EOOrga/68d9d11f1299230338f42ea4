@@ -1,0 +1,3 @@
+ASSOC.FORMAT.PERFECT.GEST.COL. helps operations teams keep daily business tasks organized on one Android device. Teams can record equipment checkout, incident response status, shift coverage, and resource allocation without accounts or cloud sync.
+
+The app is built for practical coordination during busy workdays. Save local records, review priority queues, open detail screens, update statuses, and keep a simple local workspace for handoffs.

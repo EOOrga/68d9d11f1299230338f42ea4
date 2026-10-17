@@ -28,7 +28,7 @@ android {
     }
 
     defaultConfig {
-        applicationId = "fr.assocformatperfectgestcolterr.operations"
+        applicationId = "fr.assocformatperfectgestcolterr.official"
         minSdk = flutter.minSdkVersion
         targetSdk = flutter.targetSdkVersion
         versionCode = flutter.versionCode
