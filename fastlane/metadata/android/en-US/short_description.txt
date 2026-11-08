@@ -1,0 +1,1 @@
+Local operations control for equipment, incidents, shifts, and resources.
